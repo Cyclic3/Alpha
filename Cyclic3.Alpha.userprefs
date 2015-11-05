@@ -1,12 +1,17 @@
 ﻿<Properties StartupItem="Node/Node.fsproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CommonLib/Component1.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Node/Program.fs">
     <Files>
-      <File FileName="CommonLib/Component1.fs" Line="4" Column="23" />
+      <File FileName="CommonLib/Component1.fs" Line="1" Column="1" />
+      <File FileName="Node/Program.fs" Line="92" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/harlan/OneDrive/Alpha/Cyclic3.Alpha/CommonLib/Component1.fs" line="49" column="1" />
+      <Breakpoint file="/home/harlan/OneDrive/Alpha/Cyclic3.Alpha/Node/Program.fs" line="80" column="1" />
+      <Breakpoint file="/home/harlan/OneDrive/Alpha/Cyclic3.Alpha/Node/Program.fs" line="91" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
